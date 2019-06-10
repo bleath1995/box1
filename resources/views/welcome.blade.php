@@ -79,9 +79,13 @@
                 </div>
             @endif
 
+            <div class="title m-b-md">
+                {{$name}} {{$say}} Laravel
+            </div>
+
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel55
                 </div>
 
                 <div class="links">
